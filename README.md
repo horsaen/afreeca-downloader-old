@@ -2,6 +2,8 @@
 
 A simple tool for the automatic download of afreeca (and other sites) 
 
+This tool has been archived for a newer, more reliable solution, to learn more send me an email ^^
+
 ## Installation and Usage
 
 Clone repo
